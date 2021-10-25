@@ -1,6 +1,6 @@
 # ReactJs containerization for development and production
 
-To read the rational and description of this project checkout the blog post [here](https://google.com)
+To read the rational and description of this project checkout the blog post [here](https://endalk200.medium.com/getting-started-with-containerizing-reactjs-application-development-and-production-setup-d29ebc69146)
 
 > You can use both development and production docker configurations found in this repo in your own projects.
 
