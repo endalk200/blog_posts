@@ -2,12 +2,7 @@ version: '3'
 
 services:
   web:
-    build:
-      context: .
-      dockerfile: ./local/Dockerfile
-    image: reactapp_image
-    container_name: reactapp_container
+    image: react-app-image
+    container_name: react-app-container
     ports:
-      - 3000:3000
-    volumes:
-      - ./:/app
+      - 8080:80
